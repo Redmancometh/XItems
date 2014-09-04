@@ -1,0 +1,10 @@
+name: XItems
+main: XItems.XItems
+version: 1.0
+commands:
+   setup:
+      description: Get Help
+      usage: /staffhelp [Message]
+   write:
+      description: Get Help
+      usage: /staffhelp [Message]
